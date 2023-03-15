@@ -23,6 +23,8 @@ yarn hardhat compile
 Deploy the contracts to a network of your choice
 
 Copy code
+```javascript
 yarn hardhat deploy
+```
 Usage
 The RandomSVG contract can be used to create unique and random SVG NFTs. To use the contract, follow these steps:
