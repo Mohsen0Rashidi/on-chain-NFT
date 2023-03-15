@@ -11,17 +11,22 @@ Installation
 Clone the repository
 
 Copy code
-git clone https://github.com/username/repo.git
+```javascript
+git clone https://github.com/Mohsen0Rashidi/on-chain-NFT.git
+```
 Install dependencies
 
 Copy code
+```javascript
 yarn
+```
 Compile the contracts
 
 Copy code
+```javascript
 yarn hardhat compile
 Deploy the contracts to a network of your choice
-
+```
 Copy code
 ```javascript
 yarn hardhat deploy
