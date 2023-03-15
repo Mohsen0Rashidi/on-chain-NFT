@@ -25,8 +25,8 @@ Compile the contracts
 Copy code
 ```javascript
 yarn hardhat compile
-Deploy the contracts to a network of your choice
 ```
+Deploy the contracts to a network of your choice
 Copy code
 ```javascript
 yarn hardhat deploy
